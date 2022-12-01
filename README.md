@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravagnihotri
 - 👀 I’m interested in applying AI/ML to audio/DSP and NVH
-- 🌱 I’m currently learning to implement AI/ML models on Audio files
+- 🌱 I’m currently learning to implement AI/ML models on audio data
 - 💞️ I’m looking to collaborate on building awesome audio related projects 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/gauravaagnihotri-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravaagnihotri/)
 ---
