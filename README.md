@@ -14,7 +14,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravagnihotri)](https://github.com/gauravagnihotri/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravagnihotri&theme=github_dark)](https://github.com/gauravagnihotri/)
 
 <!---
 gauravagnihotri/gauravagnihotri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
